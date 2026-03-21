@@ -1,5 +1,5 @@
 # Pattern Recognition for Financial Time Series Forecasting
-
+Group Project done by:
 |Name|Registration Number|
 |-|-|
 |Archith Sunil|TCR24CS015|
