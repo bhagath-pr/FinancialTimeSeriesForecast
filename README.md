@@ -47,7 +47,7 @@ This will create a virtual environment and install all required packages automat
 
 > **Windows users:** PyTorch will be installed in CPU-only mode. Training will be slightly slower but fully functional.
 
-> **Google Colab users:** Skip setup entirely. Just run `!pip install yfinance` in the first cell, upload the task files, and run them with `!python task1\\\_data.py` etc.
+> **Google Colab users:** Skip setup entirely. Just run `!pip install yfinance` in the first cell, upload the task files, and run them with `!python task1_data.py` etc.
 
 ## Running
 
