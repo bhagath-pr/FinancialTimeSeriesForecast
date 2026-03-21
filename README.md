@@ -101,7 +101,7 @@ assignment2/
 |Infosys|0.00553|0.07437|0.06007|0.6602|
 |Wipro|0.00132|0.03633|0.02931|0.8037|
 
-All metrics are on the normalized \[0–1] price scale. See `report.docx` for the full analysis.
+All metrics are on the normalized \[0–1] price scale. See `report.pdf` for the full analysis.
 
 ## Dependencies
 
