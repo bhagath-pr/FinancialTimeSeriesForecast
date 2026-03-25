@@ -4,6 +4,7 @@ Group Project done by:
 |-|-|
 |Archith Sunil|TCR24CS015|
 |Bhagath P. R.|TCR24CS019|
+|David Chacko Binoy|TCR24CS022|
 |Devanandan J. Y.|TCR24CS023|
 |Harinarayanan R.|TCR24CS033|
 |Joseph Mathew|TCR24CS038|
